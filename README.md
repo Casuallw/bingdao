@@ -53,9 +53,14 @@
 
 ---
 
+## 下载
+
+- 安装包：[releases/latest](https://github.com/Casuallw/bingdao/releases/latest)
+- 直接下载：[bingdao-v1.9.10.apk](https://github.com/Casuallw/bingdao/releases/download/v1.9.10/bingdao-v1.9.10.apk) · [源码 zip](https://github.com/Casuallw/bingdao/releases/download/v1.9.10/bingdao-source.zip)
+
 ## 安装
 
-1. 下载 Releases 中的 `冰岛-v1.9.10.apk` 并安装（需允许“安装未知应用”）。
+1. 下载 [Releases](https://github.com/Casuallw/bingdao/releases/latest) 中的 `bingdao-v1.9.10.apk` 并安装（需允许“安装未知应用”）。
 2. 打开「冰岛」，按首页提示授权：
    - 悬浮窗（必须）
    - 通知使用权（必须）
