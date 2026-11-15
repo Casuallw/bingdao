@@ -53,14 +53,9 @@
 
 ---
 
-## 下载
-
-- 安装包：[releases/latest](https://github.com/Casuallw/bingdao/releases/latest)
-- 直接下载：[bingdao-v1.9.10.apk](https://github.com/Casuallw/bingdao/releases/download/v1.9.10/bingdao-v1.9.10.apk) · [源码 zip](https://github.com/Casuallw/bingdao/releases/download/v1.9.10/bingdao-source.zip)
-
 ## 安装
 
-1. 下载 [Releases](https://github.com/Casuallw/bingdao/releases/latest) 中的 `bingdao-v1.9.10.apk` 并安装（需允许“安装未知应用”）。
+1. 下载 Releases 中的 `冰岛-v1.9.10.apk` 并安装（需允许“安装未知应用”）。
 2. 打开「冰岛」，按首页提示授权：
    - 悬浮窗（必须）
    - 通知使用权（必须）
@@ -108,11 +103,28 @@ assets/                  赞助二维码等
 
 ---
 
+## 版权
+
+```
+Copyright (c) 2026 casuallw (Gitee: casual-wear / GitHub: Casuallw)
+All rights reserved.
+```
+
+本项目自 2026-11-15 起在以下位置保留著作权归属声明：
+
+- `LICENSE` 文件：具名版权人、生效日期、项目地址
+- 每个源代码文件头部：版权头注释
+- 本仓库的 Git 提交历史：可作为原创时间线的证据
+
+---
+
 ## 许可
 
-**非商业使用许可 1.0**：允许个人免费使用、学习、修改与免费原样分享；**禁止任何商业使用、禁止倒卖 / 转售 / 付费分发，禁止修改后收费分发，禁止移除版权与许可声明。** 完整条款见 [LICENSE](LICENSE)。
+**非商业使用许可 1.1**：允许个人免费使用、学习、修改与免费原样分享；**禁止任何商业使用、禁止倒卖 / 转售 / 付费分发，禁止修改后收费分发，禁止移除版权与许可声明，禁止冒充作者。**
 
-商业授权请联系作者。
+**违约即自动终止授权**：违反任一条件，授权自违反之日起自动终止，继续使用即构成著作权侵权。作者有权要求停止侵权、删除内容并赔偿损失（含律师费、公证费等合理维权支出）。对个别违约不追究，不构成对该条款的放弃。
+
+完整条款见 [LICENSE](LICENSE)。商业授权请联系作者。
 
 ---
 

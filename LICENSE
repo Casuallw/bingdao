@@ -1,46 +1,115 @@
-冰岛 · 非商业使用许可 1.0
-Bingdao Non-Commercial License 1.0
+冰岛 · 非商业使用许可 1.1
+Bingdao Non-Commercial License 1.1
 
-版权所有 (c) 2026 冰岛作者。保留所有权利。
+Copyright (c) 2026 casuallw (Gitee: casual-wear / GitHub: Casuallw)
+生效日期：2026-11-15
+项目地址：https://gitee.com/casual-wear/bingdao
+
+这是一个带条件的授权，不是放弃版权。作者保留本软件及其源代码、
+界面设计、图标与所有相关资源（以下统称"本软件"）的全部著作权。
 
 一、允许
+
 1. 个人、非商业目的的下载、安装、使用。
 2. 学习、研究目的下阅读、修改源代码。
-3. 在保留本许可与版权声明完整内容的前提下，原样、免费地分享本软件。
+3. 在同时满足以下全部条件时，原样、免费地再分发本软件：
+   (a) 不做任何修改；
+   (b) 不收费；
+   (c) 完整保留本许可与版权声明；
+   (d) 不附加任何限制或额外条款。
 
 二、禁止
-1. 任何形式的商业使用，包括但不限于：付费分发、随商品搭售、内置广告、应用商店付费下载、SaaS 收费、企业内训收费。
-2. 倒卖、转售、二次售卖，包括以“代装”“代打包”“整合包”“资源”等名义收费。
-3. 修改后闭源收费分发，或将本项目代码 / 资源用于任何收费产品。
-4. 移除、隐藏或篡改本许可、版权声明与作者信息。
 
-三、其他
-1. 本软件按“现状”提供，不附带任何明示或默示担保；使用风险由使用者自行承担。
-2. 本项目为个人作品，与 vivo、Android、Google 及任何手机厂商无关联，也未获其背书。
-3. 违反本许可的授权自违反之日起自动终止。
-4. 本许可未授予商标使用权；“冰岛”名称与图标仅可用于指代本原创项目。
+1. 任何形式的商业使用，包括但不限于：付费分发、随商品搭售、内置广告、
+   应用商店付费下载、SaaS 收费、企业内训收费、以本软件为卖点的引流变现。
+2. 倒卖、转售、二次售卖，包括以"代装""代打包""整合包""资源""破解"
+   等名义收费。
+3. 修改后闭源分发，或将本项目代码 / 资源用于任何收费产品。
+4. 移除、隐藏或篡改本许可、版权声明、作者信息与来源链接。
+5. 冒充作者发布，或声称对本软件拥有著作权。
+
+三、违约与救济（重点）
+
+1. 违反本许可任何一条，授权自违反之日起自动终止，无需作者另行通知。
+2. 授权终止后，继续使用、复制、分发本软件即构成著作权侵权，且不再享有
+   本许可项下的任何抗辩。
+3. 作者有权要求违约方立即停止侵权、删除全部侵权内容，并要求赔偿由此
+   造成的损失（包括但不限于合理的维权支出：律师费、公证费、诉讼费、
+   差旅费）。
+4. 违约方在收到作者书面通知后 7 日内停止侵权并消除影响的，作者可以
+   酌情免除赔偿责任，但不影响本许可的继续终止。
+5. 作者对个别违约行为未追究，不构成对该行为的许可，也不构成对该条款
+   的放弃。
+
+四、维权方式
+
+作者可以选择下列任一种或多种方式主张权利：
+1. 向托管平台（如 GitHub、Gitee）提交版权侵权投诉，要求下架。
+2. 发送停止侵权函或律师函。
+3. 向侵权内容所在的平台、应用商店、支付渠道投诉。
+4. 提起诉讼。
+
+五、其他
+
+1. 本软件按"现状"提供，不附带任何明示或默示担保；使用风险由使用者
+   自行承担。
+2. 本项目为个人作品，与 vivo、Android、Google 及任何手机厂商无关联，
+   也未获其背书。
+3. 本许可未授予商标使用权；"冰岛"名称与图标仅可用于指代本原创项目。
+4. 本许可适用中华人民共和国法律。争议由作者所在地有管辖权的人民法院
+   管辖。
 
 如需商业授权，请联系作者另行协商。
 
 ---
 
-Bingdao Non-Commercial License 1.0
+Bingdao Non-Commercial License 1.1
 
-Copyright (c) 2026 The Bingdao Authors. All rights reserved.
+Copyright (c) 2026 casuallw (Gitee: casual-wear / GitHub: Casuallw).
+All rights reserved.
+Effective date: 2026-11-15
+Project: https://gitee.com/casual-wear/bingdao
 
-Permission is granted, free of charge, to any individual to download, install
-and use this software for personal, non-commercial purposes, and to read and
-modify the source code for study. Redistribution is allowed only in unmodified
-form, free of charge, and with this license and copyright notice kept intact.
+This is a conditional grant of permission, not a waiver of copyright. The
+author retains the full copyright in this software and its source code, UI
+design, icons and all related assets (the "Software").
+
+PERMITTED
+
+You may download, install and use the Software for personal, non-commercial
+purposes, and read and modify the source code for study. You may redistribute
+the Software unmodified and free of charge, provided that this license and
+copyright notice are kept fully intact, that no fee is charged, and that no
+additional restrictions are imposed.
+
+PROHIBITED
 
 Commercial use of any kind is prohibited, including paid distribution,
 bundling with paid products, in-app advertising, paid app-store listings,
-paid SaaS, and paid corporate training. Reselling, repackaging for sale, or
-distributing modified versions for a fee is prohibited. Removing or altering
-this license or the author's notices is prohibited.
+paid SaaS, paid corporate training, and monetization that uses the Software
+as its selling point. Reselling, repackaging for sale, or distributing
+modified versions for a fee is prohibited. Removing or altering this license,
+the author's notices or the source link is prohibited. Claiming authorship of
+the Software is prohibited.
+
+BREACH AND REMEDIES
+
+Any breach terminates the granted permission immediately and automatically,
+without further notice. Continued use, copying or distribution after
+termination constitutes copyright infringement, with no defense available
+under this license. The author may demand that the infringer cease all
+infringing activity, delete all infringing content, and compensate losses,
+including reasonable enforcement costs such as attorney fees, notarization
+fees, litigation costs and travel expenses. Failure to enforce a particular
+breach is not a waiver of the license terms.
+
+WARRANTY AND MISCELLANEOUS
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THIS PROJECT
 IS AN INDEPENDENT WORK AND IS NOT AFFILIATED WITH OR ENDORSED BY VIVO,
 ANDROID, GOOGLE, OR ANY DEVICE MANUFACTURER.
 
-Any breach terminates the granted permission immediately.
+No trademark rights are granted; the name "Bingdao" / "冰岛" and its logo may
+be used only to refer to this original project.
+
+For commercial licensing, contact the author.
